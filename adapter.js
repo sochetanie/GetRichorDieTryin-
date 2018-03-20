@@ -1,7 +1,7 @@
-// window.onload = function() {
-//   getData()
-//   // createUser()
-// }
+window.onload = function() {
+  getData()
+  // createUser()
+}
 
 $(document).ready(function(){
   createUser()
